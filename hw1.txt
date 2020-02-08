@@ -1,0 +1,1 @@
+We can see that on an average, there are 3 searches which are same in Bing and Google. This tells us that Bing is somewhat like Google but not completely. The highly negative co-efficient tells us that Bing and Google use completely different algorithms for what it thinks is the most likely for the query. 
